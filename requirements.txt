@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+Pillow
+ncnn==1.0.20261020
+opencv-python-headless
